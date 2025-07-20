@@ -15,6 +15,10 @@ A lightweight Python microservice for simulating long-term investment portfolio 
 
 ---
 
+## 🤓 Simulation Logic On FastAPI dashboard
+
+FastAPISwagger.jpg
+
 ## 📦 Tech Stack
 
 | Component           | Tool                    |
